@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sai\\popmsgnew\\Forms_clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_clone\\All_Submissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_clone\\Create.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_clone\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_clone\\All_Submissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_clone\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All_Submissions.vb",
+              "DocumentMoniker": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb",
+              "RelativeDocumentMoniker": "Forms_clone\\All_Submissions.vb",
+              "ToolTip": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb",
+              "RelativeToolTip": "Forms_clone\\All_Submissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:01:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.vb",
+              "DocumentMoniker": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Create.vb",
+              "RelativeDocumentMoniker": "Forms_clone\\Create.vb",
+              "ToolTip": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Create.vb",
+              "RelativeToolTip": "Forms_clone\\Create.vb",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T14:18:34.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb",
+              "RelativeDocumentMoniker": "Forms_clone\\Form1.vb",
+              "ToolTip": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb",
+              "RelativeToolTip": "Forms_clone\\Form1.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T07:26:16.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All_Submissions.vb [Design]",
+              "DocumentMoniker": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb",
+              "RelativeDocumentMoniker": "Forms_clone\\All_Submissions.vb",
+              "ToolTip": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\All_Submissions.vb [Design]",
+              "RelativeToolTip": "Forms_clone\\All_Submissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T07:26:09.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb",
+              "RelativeDocumentMoniker": "Forms_clone\\Form1.vb",
+              "ToolTip": "D:\\sai\\popmsgnew\\Forms_clone\\Forms_clone\\Form1.vb [Design]",
+              "RelativeToolTip": "Forms_clone\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T06:17:55.81Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
