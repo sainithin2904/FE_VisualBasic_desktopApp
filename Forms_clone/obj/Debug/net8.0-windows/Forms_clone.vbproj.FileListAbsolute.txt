@@ -19,3 +19,4 @@ D:\sai\popmsgnew\Forms_clone\Forms_clone\bin\Debug\net8.0-windows\Newtonsoft.Jso
 D:\sai\popmsgnew\Forms_clone\Forms_clone\obj\Debug\net8.0-windows\Forms_clone.vbproj.AssemblyReference.cache
 D:\sai\popmsgnew\Forms_clone\Forms_clone\obj\Debug\net8.0-windows\Forms_cl.0795F150.Up2Date
 D:\sai\popmsgnew\Forms_clone\Forms_clone\obj\Debug\net8.0-windows\Forms_clone.Submission.resources
+D:\sai\popmsgnew\Forms_clone\Forms_clone\obj\Debug\net8.0-windows\Forms_clone.sourcelink.json

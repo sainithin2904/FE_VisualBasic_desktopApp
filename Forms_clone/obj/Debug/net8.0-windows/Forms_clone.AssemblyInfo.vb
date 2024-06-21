@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Forms_clone"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd356ac5320b652db456b4a4be2df4679010cf3e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Forms_clone"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Forms_clone"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
