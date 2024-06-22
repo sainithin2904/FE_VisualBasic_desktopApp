@@ -52,7 +52,7 @@ Public Class All_Submissions
                     TextBox2.Text = submission.Email
                     TextBox3.Text = submission.Phone
                     TextBox4.Text = submission.GitHub
-                    ' If you have a control for StopwatchTime, display it too
+
 
                     ' Increment the index for the next click
                     currentIndex += 1
